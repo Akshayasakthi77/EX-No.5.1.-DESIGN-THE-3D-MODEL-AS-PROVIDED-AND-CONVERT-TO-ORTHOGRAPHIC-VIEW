@@ -48,8 +48,7 @@ To create orthographic view of given 3D model
 <img width="893" height="637" alt="image" src="https://github.com/user-attachments/assets/d8d91bb5-1677-4ae6-8fff-f025ee86ce5e" />
 
 ## OUTPUT
-<img width="830" height="577" alt="image" src="https://github.com/user-attachments/assets/4a62be84-407f-47cb-a9c5-6ac5e28bd70f" />
-
+<img width="1505" height="1045" alt="Technical Mechanical Drawing with Updated Title Block" src="https://github.com/user-attachments/assets/2e933b0e-53d0-43e3-8323-b41ebd46aa24" />
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
